@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **vieiraneto88@gmail.com**
 
-- ⚡ Fun fact: **I'm chocolover and Sherlock Holmes fan**
+- ⚡ Fun fact: **I'm chocolover and Sherlock Holmes**
   
 </p>
 
