@@ -13,6 +13,9 @@
   </a>
   <a  target='_blank' href="https://www.hackerrank.com/vieiraneto88">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+  <a href="./README.en-US.md">
+    <img width='39px' height='28px' src="https://github.com/hampusborgos/country-flags/blob/ba2cf4101bf029d2ada26da2f95121de74581a4d/png100px/us.png?raw=true">
   </a>  
 </div>
 
