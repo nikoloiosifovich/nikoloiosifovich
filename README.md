@@ -30,13 +30,14 @@ No meu tempo livre, estudo outras tecnologias e por isso tenho propriedade em re
 ## Informações pessoais
 
 * **Nome**: José Vieira da Silva Neto
-* **Idade**: 33
+* **Idade**: 36
 * **Lotado em**: Maceió, Alagoas
+<!--
 * **Universidade**: Sistemas de Informação, Instituto Federal de Alagoas
 * **Stack's**:
   * **MERN**: MongoDB - Express - React - Node
   * **JAVA**: ***em construção***
-
+-->
 ## Curiosidades
 
 * Meu primeiro contato com programação foi por meio do **Borland Delphi** ao qual desenvolvi um software para gerar e armazenar os relatórios de campo em PDF.
